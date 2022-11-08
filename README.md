@@ -1,4 +1,4 @@
-# skin_disease_classification
+# skin_disease_classification_by_using_CNN
 Developed an image classification model using efficientnetB0 architectures, 
 A webpage is developed as an application of this project, using which a user can easily detect the 
 type of disease by uploading an image. Libraries used in this project are Numpy, 
