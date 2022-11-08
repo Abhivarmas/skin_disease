@@ -17,11 +17,11 @@ Pandas, sklearn, matplotlib, Keras, Tensorflow and flask is used for webpage
 ![ISIC_0024308](https://user-images.githubusercontent.com/93196397/200551267-189e8593-9d47-4e24-95a2-751ea1998979.jpg)
 
 # metrics evalution 
-confusion matrix
+confusion matrix and analysis
 
 ![image](https://user-images.githubusercontent.com/93196397/200549998-d1b39371-ad00-4993-a72e-5ea60c783bb3.png)
 
-analysis
+
 
 ![image](https://user-images.githubusercontent.com/93196397/200550531-dbaa26dc-875c-43e3-9a69-28dd8cb12745.png)
 
