@@ -5,6 +5,7 @@ type of disease by uploading an image. Libraries used in this project are Numpy,
 Pandas, sklearn, matplotlib, Keras, Tensorflow and flask is used for webpage
 # The disease name is given below:
 (1)melanoma
+
 ![ISIC_0024313](https://user-images.githubusercontent.com/93196397/200551143-9f60c5fd-75fc-4175-b2cc-b56a8e22234c.jpg)
 
 (2)bengin kertosis
