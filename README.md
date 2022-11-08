@@ -9,9 +9,11 @@ Pandas, sklearn, matplotlib, Keras, Tensorflow and flask is used for webpage
 ![ISIC_0024313](https://user-images.githubusercontent.com/93196397/200551143-9f60c5fd-75fc-4175-b2cc-b56a8e22234c.jpg)
 
 (2)bengin kertosis
+
 ![ISIC_0024592](https://user-images.githubusercontent.com/93196397/200551199-f30ead02-0f36-4276-8aae-1a71f1b2cc9b.jpg)
 
 (3)melanocytic nevi
+
 ![ISIC_0024308](https://user-images.githubusercontent.com/93196397/200551267-189e8593-9d47-4e24-95a2-751ea1998979.jpg)
 
 # metrics evalution 
